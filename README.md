@@ -8,7 +8,7 @@ Open your Terminal at the location of 'lib' file, type in
 "ruby interface.rb"
 
 
-## Details
+## Original Request Details
 ## Woven coding test
 
 Your task is to write an application to play the game of Woven Monopoly.
