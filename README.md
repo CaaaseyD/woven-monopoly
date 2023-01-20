@@ -1,3 +1,14 @@
+## Woven Monopoly
+Hi everyone,
+Welcome to this commandline game monopoly
+
+## How to run it
+Install ruby
+Open your Terminal at the location of 'lib' file, type in
+"ruby interface.rb"
+
+
+## Details
 ## Woven coding test
 
 Your task is to write an application to play the game of Woven Monopoly.

@@ -1,11 +1,12 @@
 class Player
-  attr_accessor :name, :money, :position, :is_alive
+  attr_accessor :name, :money, :position, :is_alive, :buildings
 
   def initialize(name)
     @name = name
     @money = 16
     @position = 0
     @is_alive = true
+    @buildings = []
   end
 
   def update_position(new_position)
