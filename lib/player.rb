@@ -8,6 +8,14 @@ class Player
     @is_alive = true
   end
 
+  def update_position(new_position)
+    @position = new_position
+  end
+
+  def add_money
+    @money += 1
+  end
+
 end
 
 
