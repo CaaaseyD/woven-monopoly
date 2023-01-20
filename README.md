@@ -1,11 +1,11 @@
 ## Woven Monopoly
-Hi everyone,
-Welcome to this commandline game monopoly
+* Hi everyone,
+* Welcome to this commandline game monopoly
 
 ## How to run it
-Install ruby
-Open your Terminal at the location of 'lib' file, type in
-"ruby interface.rb"
+* Install ruby
+* Open your Terminal at the location of 'lib' file
+* type in "ruby interface.rb"
 
 
 ## Original Request Details
