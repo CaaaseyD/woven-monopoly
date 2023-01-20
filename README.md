@@ -1,5 +1,5 @@
 ## Woven Monopoly
-* Hi everyone,
+* Hi everyone!
 * Welcome to this commandline game monopoly
 
 ## How to run it
