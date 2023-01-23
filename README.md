@@ -1,20 +1,17 @@
-## Woven Monopoly
+### Woven Monopoly
 * Hi everyone!
-* Welcome to this commandline game monopoly
+* Welcome to this commandline monopoly game!
 
-## How to run it
-* Install ruby
+### How to run it
+* Check you've installed Ruby
 * Open your Terminal at the location of 'lib' file
-* type in "ruby interface.rb"
+* Run "ruby interface.rb"
+* There are 2 pre-set demo of the the dice rolls, the game is deterministic.
+* You may change roll_path = '../spec/rolls_1.json' to '../spec/helper/rolls_2.json' in the interface.rb file to run another game demo.
 
+* Have fun!
 
-## Original Request Details
-## Woven coding test
-
-Your task is to write an application to play the game of Woven Monopoly.
-
-In Woven Monopoly, when the dice rolls are set ahead of time, the game is deterministic.
-
+### Original Request Details
 ### Game rules
 * There are four players who take turns in the following order:
   * Peter
