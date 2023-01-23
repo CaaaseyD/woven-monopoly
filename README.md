@@ -6,12 +6,17 @@
 * Check you've installed Ruby
 * Open your Terminal at the location of 'lib' file
 * Run "ruby interface.rb"
-https://user-images.githubusercontent.com/111398626/214174854-9da905a5-45fe-47a5-a9c2-4201664114ef.png
+
+![image](https://user-images.githubusercontent.com/111398626/214175544-6047aef2-c76d-495d-9fe8-e9562127b9f2.png)
+
 For example, here is result of the rolls_1 game demo
-https://user-images.githubusercontent.com/111398626/214174917-762e582c-6c23-4bdb-a6ab-6178cc4b219f.png
+
+![image](https://user-images.githubusercontent.com/111398626/214175578-904ba9fa-f96f-4fde-901f-6379881660bb.png)
+
 * There are 2 pre-set demo of the the dice rolls, the game is deterministic.
 * You may change roll_path = '../spec/rolls_1.json' to '../spec/helper/rolls_2.json' in the interface.rb file to run another game demo.
-https://user-images.githubusercontent.com/111398626/214174701-d04cadcf-4813-4948-b483-768615be6e48.png
+
+![image](https://user-images.githubusercontent.com/111398626/214175458-5e42d64e-5ba1-47c5-aaee-9da185f4b93c.png)
 
 * Have fun!
 
